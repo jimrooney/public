@@ -1,0 +1,16 @@
+﻿{
+"name": "PWA",
+"short_name": "pwa",
+"start_url": "index.html",
+"gcm_sender_id": "103953800507",
+"display": "standalone",
+"background_color": "#AF1000",
+"theme_color": "#AF1000",
+"icons": [
+    {
+      "src": "/images/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}
